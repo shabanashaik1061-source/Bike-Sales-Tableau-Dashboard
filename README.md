@@ -20,7 +20,7 @@ https://public.tableau.com/app/profile/shabana.shaika/viz/Bikesales_178305847191
 
 ## Dashboard Preview
 ### Dashboard 1
-![Dashboard 1](bike sales 1.png)
+![Dashboard 1](https://github.com/shabanashaik1061-source/Bike-Sales-Tableau-Dashboard/blob/main/bike%20sales%201.png)
 
 ### Dashboard 2
 ![Dashboard 2](bike sales-2.png)
