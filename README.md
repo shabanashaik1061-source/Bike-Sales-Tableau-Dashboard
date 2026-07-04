@@ -19,3 +19,9 @@ This project is an interactive Tableau dashboard built to analyze bike sales dat
 https://public.tableau.com/app/profile/shabana.shaika/viz/Bikesales_17830584719100/Bikesalesanalysis
 
 ## Dashboard Preview
+### Dashboard 1
+![Dashboard 1](bike sales 1.png)
+
+### Dashboard 2
+![Dashboard 2](bike sales-2.png)
+
